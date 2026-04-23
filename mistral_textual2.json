@@ -1,0 +1,1 @@
+{"locked_properties": [{"object": "pizza", "property": "x"}], "intents": [{"intent": "move pizza", "likelihood": 0.8, "next": [{"change": ["pizza.x = 1.0"], "reason": "pizza was moved"}]}, {"intent": "resize pizza", "likelihood": 0.2, "next": [{"change": ["pizza.w = 2.0"], "reason": "pizza was resized"}]}]}
